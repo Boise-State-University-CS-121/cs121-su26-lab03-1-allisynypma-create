@@ -20,15 +20,7 @@ public class SphereCalculator
         System.out.printf("Volume: %.4f \n", userVolume);
         System.out.printf("Surface area: %.4f \n", userArea);
        
-
-
-
-
-
-
+        /* Done with Scanner, so close it */
         scan.close();
     }
-
-
-
 }
